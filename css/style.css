@@ -1,0 +1,143 @@
+
+img{
+    
+    height: 100vh;
+    width: 100vw;
+}
+.logo{
+    height: 70px;
+    width:200px;
+    position: absolute;
+    top:3%;
+    }
+
+    .tutor{
+    position: absolute;
+    top:3%;
+    right:10%;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: white solid .5px;
+    background-color: transparent;
+}
+
+.users{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    right: 6%;
+    top:2%;
+}
+
+
+.container{
+    height: 60px;
+    width:200px;
+    position: absolute;
+    right: 0%;
+    top:2.5%;
+   
+}
+
+.menu{
+    height: 35px;
+    width:35px;
+    position: absolute;
+    top: 3.5%;
+    z-index: 2;
+    right:6%;
+}
+
+.person{
+    height: 35px;
+    width:35px;
+    position: absolute;
+    top: 3.5%;
+    right: 3%;
+    z-index: 2;
+}
+
+.dropdown{
+    position: absolute;
+    top:0%;
+    right: 3%;
+    width:400px;
+    height: 500px;
+}
+
+.form{
+    width:500px;
+    height: 800px;
+    position: absolute;
+    top: 20%;
+    left:40%;
+    }
+
+.email{
+    width:350px;
+    height:60px;
+}
+
+.password{
+    width:350px;
+    height:60px;
+}
+.login{
+    width:350px;
+    height:60px;
+}
+.login-gmail{
+    width:350px;
+    height:60px;
+}
+.details{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top:43%;
+    left:44%;
+}
+
+h3{
+    position: absolute;
+    top:38%;
+    left:51%;
+    z-index: 2;
+}
+
+h4{
+    position: absolute;
+    top: 67%;
+    right:45.5%;
+    color: white;
+}
+
+h5{
+    position: absolute;
+    top: 76.5%;
+    right:42.5%;
+    color: white;
+    color: #325288;
+}
+
+.notmember{
+    position: absolute;
+    right:40%;
+    top:81%;
+
+}
+
+span{
+    color: #325288;
+}
+
+.cancel{
+    height: 25px;
+    width:25px;
+    position: absolute;
+    top:38%;
+    left:62%;
+    z-index: 2;
+}
